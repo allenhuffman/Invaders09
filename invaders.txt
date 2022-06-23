@@ -1,0 +1,66 @@
+File:  INVADERS.DOC - Revision 1.1 (4/23/95) - By Allen C. Huffman
+
+|   I    NNNNN  VV  V   AAA   DDDD   EEEEE  RRRR   SSSSS   |
+|   I    N   N  VV  V   A A   D   D  E      R  R   S       |
+|   II   NN  N  VV VV  AAAAA  DD  D  EEEE   RRRRR  SSSSS   |
+|   II   NN  N   V V   AA  A  DD  D  EE     RR  R     SS   |
+|   II   NN  N    V    AA  A  DDDD   EEEEE  RR  R  SSSSS   |
+
+The Invasion Begins!
+
+By Allen C. Huffman
+Copyright (C) 1994 by Sub-Etha Software
+P.O. Box 152442 - Lufkin, Texas 75915
+
+INTRODUCTION
+
+     For years, determined scientists have probed the endless boundries of the universe for extra-terrestrial signals.  Countless satellites have been launched, radio signals transmitted, and theories formulated...all without results.  Until now...
+     Far out in the eastern spiral arm of the galaxy, something was listening. And this something didn't like what it heard.  Soon outposts around the planet were picking up masses moving towards the Earth.  The planet was preparing for first contact, but no signals came from the void.
+     The scientists prepared their welcome speeches.  The government, of course, prepared defense actions.  The tabloids prepared headlines about the end of the world.  The invasion began.
+     Without warning, waves of disc shaped ships filled the skies.  Blasts of energy were fired on unsuspecting buildings, knocking out military installations before any retaliation strikes could be launched.  The Earth was defenseless except...of course...for one last hope.
+     The E.T.H.A. (Extra Terrestrial Hope Association) had planned for the worst when the big day of contact would arrive.  Along with an endless supply of peaceful translation equipment they possessed an experimental plasma cannon.  This would be Earth's only chance for survival.
+     You, my friend, are the control operator of this cannon.  Good luck.
+
+INSTALLATION
+
+     Invaders09 is a self contained executable called "Invaders".  Copy it to your CMDS directory.  Usage is as follows:
+
+     Invaders x.xx by Allen Huffman (coco-sysop@genie.geis.com)
+     Copyright (C) 1994 by Sub-Etha Software.
+
+     Syntax: Invaders [-opts]
+     Usage : LEFT/RIGHT to Move, SPACE to Fire, P to Pause, Q to Quit.
+     Opts  : -? = display this message.
+             -m = monochrome colors (for 'montype m' displays).
+
+PLAYING THE GAME
+
+     At the title screen, joystick users should press "J" or the fire button to start the game.  [Note:  The joystick must be plugged into the left joystick port.]  For keyboard control, press "K".  "Q" will quit back to OS-9.
+     The game will begin and the playfield will appear.  The object is simply to move your cannon (at the bottom of the screen) left and right to shoot at the bad guys.  Direct hits are required as any side shots will be absorbed harmlessly by the invaders.  Also, equipment limitations prevent your plasma cannon from moving and firing at the same time.  Readouts at the bottom of the screen display your current score, round, power rating, and lives remaining.
+
+     Scoring:  Each invader you hit earns you 10 points.  Occassionally, a mother ship ufo will pass across the top of the playfied.  Destroying it is worth 100 points.
+     Rounds:  After clearing out all fifty invaders, a new round will begin.  The invaders will start closer to the ground.
+     Power:  This determines how many shots your cannon can fire at a time.  Each round gives you an extra shot up to the maximum of "J" (10 shots).  Each time you lose a life your power goes down by one to the minimum of "B" (two shots).
+     Lives:  You start with three cannons.  Use them wisely.  Without them the dreaded "Game Over" message will appear.
+     Pause:  During game play, press "P" to pause the game.
+     Quit:  Pressing "Q" during a game will quit.
+
+     You have three shields to hide under.  Be warned:  They do not protect you from bombs dropped by the mothership.  Also, when the invaders get low enough your shields will disappear.  Be warned again.
+
+WINNING THE GAME
+
+     As with all classic arcade games, the enemies are never ending.  Each level causes the enemies to start closer and closer to the ground and they get faster and faster.  Good luck!
+
+THANKS
+
+     Special thanks to YOU for helping support the future of the CoCo and OS-9 by supporting vendors such as ourselves.  Without you, our hobby would have died years ago.
+
+SPECIAL THANKS
+
+     Thanks to Bob, Robert Gault, Colin McKay, Alan DeKok and Alex Forrest for helping beta test this product and get it to this stage.
+
+CONTACTING SUB-ETHA:
+
+   By Mail:  Sub-Etha Software            Internet: COCO-SYSOP@genie.geis.com
+              P.O. Box 152442                GEnie: COCO-SYSOP
+             Lufkin, TX  75915              Delphi: JOELHEGBERG
