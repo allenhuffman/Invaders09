@@ -1,0 +1,34 @@
+ 
+9/24/94
+ 
+Greetings from the Sub-Etha!
+ 
+     Thank you for purchasing our first game product!  If sales are good, more
+games will follow - spread the word!
+ 
+     Invaders began on August 21st, 1994 and the latest modifications were
+done on September 7th.  The product has been in beta test during this time but
+problems always have a way of creeping in after distribution begins.  If you
+encounter any problems with this game, please let us know either by writing us
+direct or by relaying a message via the Internet.
+ 
+     Invaders is coded in 100% assembly language using a mixture of direct
+screen writes and OS-9 system calls.  The source file is 39K long and has over
+1500 lines of code.  For those interested, source code is available for $10
+but you must promise not to laugh <grin>.
+
+     Invaders has been tested to perform on 512K systems under stock OS-9 as
+well as NitrOS-9.  It, so far, will *NOT* function on systems with 1 meg or
+greater RAM.  When in doubt, use a stock boot.
+ 
+     Thank you for your support, and we hope to offer more games for OS-9 in
+the future.
+ 
+                    Allen C. Huffman, Co-Owner
+                    Sub-Etha Software
+                    P.O. Box 152442
+                    Lufkin, TX  75915
+                    U.S.A.
+ 
+P.S. - To anyone who finds the game "slow" and tries to blame that on OS-9,
+try running the game with "-z" on the command line.  Good luck!

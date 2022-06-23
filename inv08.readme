@@ -1,0 +1,19 @@
+
+9/7/94 @ 3:06am
+---------------
+
+     For those playing along at home . . .
+
+     Joystick support!  Not mouse support, though, which means you will
+          need a low-rest joystick plugged into the left port.  The "-j"
+          option selects that, otherwise keyboard is assumed.  Which
+          reminds me, I gotta add a way to select it from the title
+          screen as well...
+     UFO Speed is "random"...making it a tougher target.
+     Enemy Bombs come from different invaders, though a bit more polish
+          needs to be added here.
+     Screen fades between rounds.  Big deal, eh?  Okay, so I just threw
+          something in real quick.
+     Both your shot and enemy shot speed have been adjusted slightly.
+
+...next?  Who knows. . .

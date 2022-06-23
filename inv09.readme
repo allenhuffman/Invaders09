@@ -1,0 +1,9 @@
+
+9/13/94 @ 23:33
+---------------
+
+Here.  This is probably as close as it's going to get to the release version.
+The game just won't work on >512K systems.  There is nothing I can do about
+it since I don't have a >512K system to play on.  NitrOS-9 users should NOT
+be having problems - this indicates that there is a BUG in the SS.ScInf call
+of NitrOS-9, which I can do nothing about.  Sorry... Sigh.
