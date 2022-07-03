@@ -1,4 +1,4 @@
-File:  INVADERS.TXT - Revision 1.2 (2/7/2015) - By Allen C. Huffman
+File:  INVADERS.DOC - Revision 1.1 (4/23/95) - By Allen C. Huffman
 
 |   I    NNNNN  VV  V   AAA   DDDD   EEEEE  RRRR   SSSSS   |
 |   I    N   N  VV  V   A A   D   D  E      R  R   S       |
@@ -9,8 +9,8 @@ File:  INVADERS.TXT - Revision 1.2 (2/7/2015) - By Allen C. Huffman
 The Invasion Begins!
 
 By Allen C. Huffman
-Copyright (C) 1994,1995,2015 by Sub-Etha Software
-www.subethasoftware.com
+Copyright (C) 1994 by Sub-Etha Software
+P.O. Box 152442 - Lufkin, Texas 75915
 
 INTRODUCTION
 
@@ -25,15 +25,13 @@ INSTALLATION
 
      Invaders09 is a self contained executable called "Invaders".  Copy it to your CMDS directory.  Usage is as follows:
 
-     Invaders 1.04 by Allen Huffman (alsplace@pobox.com)
-     Copyright (C) 1994,95,2015 by Sub-Etha Software. www.subethasoftware.com
+     Invaders x.xx by Allen Huffman (coco-sysop@genie.geis.com)
+     Copyright (C) 1994 by Sub-Etha Software.
 
      Syntax: Invaders [-opts]
      Usage : LEFT/RIGHT to Move, SPACE to Fire, P to Pause, Q to Quit.
      Opts  : -? = display this message.
              -m = monochrome colors (for 'montype m' displays).
-             -z = secret option if you think it is too slow.
-             -* = secret cheat mode (press * to skip level).
 
 PLAYING THE GAME
 
@@ -59,24 +57,10 @@ THANKS
 
 SPECIAL THANKS
 
-     Thanks to Bob Devries, Robert Gault, Colin McKay, Alan DeKok and the late Alex Forrest for helping beta test this product and get it to this stage.
-
-RELEASE HISTORY
-
-Programming on Invaders09 began on 8/21/94 and it debuted at the 1994 Atlanta CoCoFest.
-
-* 1.00 09/24/94 - Release version for 1994 Atlanta CoCoFest!
-* 1.01 10/26/94 - Robert Gault patch for >512K systems
-*                 Since NitrOS9 call does not work for >512K, call removed
-* 1.02 01/29/95 - Converting to 16-color gfx screen (whew!)
-* 1.03 02/04/95 - Added test for valid screen BEFORE mapping it into MEM R.G.
-*                 Moved hiscore and packet (=enemies) to dp. A.H.
-* 1.04 02/07/15 - Updated title screen (website, new message).
-*                 Added "secret" options to help screen.
-*                 Fixed bug that made font not always load.
-*                 Fixed shield and border graphics, palette cleanup.
+     Thanks to Bob, Robert Gault, Colin McKay, Alan DeKok and Alex Forrest for helping beta test this product and get it to this stage.
 
 CONTACTING SUB-ETHA:
 
-    Internet: www.subethasoftware.com
-    Facebook: www.facebook.com/subethasoftware
+   By Mail:  Sub-Etha Software            Internet: COCO-SYSOP@genie.geis.com
+              P.O. Box 152442                GEnie: COCO-SYSOP
+             Lufkin, TX  75915              Delphi: JOELHEGBERG

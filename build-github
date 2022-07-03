@@ -1,0 +1,10 @@
+#!/bin/bash
+set -e
+INVADERS=invaders1.04
+mkdir -p build
+lwasm -3 --includedir=/usr/local/share/lwasm/ -fos9 -DOS9.D=0 -DLevel=2 -DH6309 -obuild/$INVADERS invaders.asm
+cd build
+cp ../INVADE09.DSK .
+os9 del INVADE09.DSK,/cmds/invaders1.04
+os9 copy ./$INVADERS INVADE09.DSK,/cmds/$INVADERS
+os9 attr INVADE09.DSK,/cmds/$INVADERS -e -pe
