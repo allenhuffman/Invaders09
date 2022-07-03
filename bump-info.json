@@ -1,0 +1,28 @@
+{
+  "scheme": "custom",
+  "schemeDefinition": "major.minor[.build][->patch]",
+  "versionFile": "./package.json",
+  "files": [{
+    "path": "build-github",
+    "line": 3
+  }, {
+    "path": "invaders.asm",
+    "line": 7
+  }, {
+    "path": "invaders.txt",
+    "line": 28
+  }, {
+    "path": "invadershelp.asm",
+    "line": 2
+  }, {
+    "path": "invaderstitle.asm",
+    "line": 3
+  }],
+  "rules": [{
+      "trigger": "manual",
+      "bump": "minor",
+      "branch": "main",
+      "reset": "build",
+      "tag": true
+  }]
+}
